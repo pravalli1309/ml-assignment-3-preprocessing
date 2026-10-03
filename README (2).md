@@ -1,6 +1,6 @@
 # ML Assignment 3 Data preprocessing
 
-Notebook: `assignment3_preprocessing.ipynb` (run top to bottom with Runtime -> Restart and run all).
+Notebook: `assignment3_preprocessing.ipynb`.
 Fitted pipeline: `pipeline.joblib`
 
 ## Dataset
